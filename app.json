@@ -1,0 +1,22 @@
+{
+  "id": "788e73a1-35a0-4354-984c-cb96f3b43b4c",
+  "name": "ALProject7",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
